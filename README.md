@@ -5,6 +5,11 @@ board. The head of the snake is the first element in the list.
 The food can be represented by a single coordinate pair that defines its position on the game board.
 When the snake eats the food, the food position should be randomized to a new location.
 If the snake has hit the walls or hit by itself than the game will be over.
+Here keyboard controls are descriped below:
+W -> UP
+A -> LEFT
+S -> DOWN
+D -> RIGHT
 ![snakegame](https://github.com/user-attachments/assets/67e87b94-bdfc-4195-be3d-9bf2c466959b)
 
 
